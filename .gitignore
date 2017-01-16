@@ -2,6 +2,10 @@
 *.o
 *.pyc
 
+.cproject
+.cproject
+*.bak
+
 # gtags
 GTAGS
 GRTAGS
